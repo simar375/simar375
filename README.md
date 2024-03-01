@@ -1,7 +1,13 @@
 
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" id="logo">
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simarpreet Kaur
+=======================================================================================================================================
 
+Full Stack Developer
+--------------------
+
+I am Master's in computer science and Engineering and I love to do designing and coding. Recognized for strong problem-solving skills, a detail-oriented mindset, and a passion for continuous learning and professional growth. Actively seeking opportunities to leverage programming skills in a dynamic development team to contribute to meaningful projects and advance technological solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simarpreet-kaur-42ab7b52/) 
