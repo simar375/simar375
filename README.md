@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" id="logo">
+
 <h1 align="center">Hi 👋, I'm simarpreet kaur</h1>
 <h3 align="center">Ambitious full stack developer</h3>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
@@ -31,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simar375&show_icons=true&locale=en" alt="simar375" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simar375&" alt="simar375" /></p>
+</html>
